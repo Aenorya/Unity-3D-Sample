@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4dc3f4d6ed34134439493ff21fb46232, type: 3}
-  m_Name: CornFlakes
+  m_Name: Bbq chips
   m_EditorClassIdentifier: 
-  label: Corn Flakes
+  label: BBQ Chips
   description: blal bla bla
-  icon: {fileID: 21300000, guid: 1961b7dba3809f140b8cc2a4c5133268, type: 3}
-  price: 6
+  icon: {fileID: 21300000, guid: 4d4096fdfea37044ea769ed4906986d5, type: 3}
+  price: 5

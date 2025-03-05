@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4dc3f4d6ed34134439493ff21fb46232, type: 3}
-  m_Name: CornFlakes
+  m_Name: Juice
   m_EditorClassIdentifier: 
   label: Corn Flakes
   description: blal bla bla
-  icon: {fileID: 21300000, guid: 1961b7dba3809f140b8cc2a4c5133268, type: 3}
-  price: 6
+  icon: {fileID: 21300000, guid: 451a5a0789c3e0642bf46e05a072defe, type: 3}
+  price: 4
